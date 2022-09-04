@@ -1,4 +1,4 @@
-https://github.com/AnastasiaShalukhina/Lending-travel/travel/index.html
+https://github.com/AnastasiaShalukhina/Lending-travel/travel/
 
 # Lending-travel
 
